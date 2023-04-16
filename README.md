@@ -1,5 +1,9 @@
 # GYM TRAINER GPT
 This is a Gym Trainer GPT Chatbot AI using open AI and Gradio.
+
+### Example:
+![image](https://user-images.githubusercontent.com/58107666/232329378-5ebbab63-8de1-4099-89c0-3365dd515308.png)
+
 ### How we did it:
 We used gradio and openAI's API to implement this chatbot. The user can send their messages inside the textbox and see the replies being generated on the left side.
 First of all you need you aquire your openAI API key from your profile page in their website. Then add it into our codebase where it is specified. Later, you can use the chatbot without issues.
