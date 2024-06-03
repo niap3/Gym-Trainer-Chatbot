@@ -27,5 +27,3 @@ python "filename"
 This will generate a link in which you can run the chatbot.
 
 Thank you ❤️
-
-[Doesn't work now tbh]
