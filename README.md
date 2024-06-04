@@ -1,4 +1,4 @@
-# GYM TRAINER GPT
+# AI GYM TRAINER
 WELCOME TO Gym Trainer GPT, an intelligence designed to help you with your fitness and gym journey. The project is built for anyone who wants to achieve their fitness goals in a personalized, convenient and affordable way. A guide available to you at any point of time, answering your doubts and queries, keeping you motivated and responding with most practical solutions for your health and fitness. To develop an efficient and ideal gym trainer, it is considered that the platform is user friendly and responses generated are real life functional and applicable to the user's request. Therefore, the objectives planned are keeping the points in mind. Building a Gym trainer chatbot that uses the API integrations of chatgpt and gradio to generate AI generated responses.
 
 ### Example:
